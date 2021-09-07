@@ -13,4 +13,4 @@ I make lots of stuff, but in terms of programming, I make...
 - [Itch.io (games)](http://bluaxolotl.itch.io/)
 - [Twitter (I posts projects)](https://twitter.com/BluAxolotl)
 - [Twitch (I stream projects sometimes)](https://twitch.tv/bluaxolotl/)
-- BluAxolotl on Youtube *(but I don't have the link yet, L)*
+- [YouTube (CONTENT)](https://www.youtube.com/channel/UCR7sSbiIu-vFr01og-4EwsQ)
