@@ -1,4 +1,4 @@
-# BluAxolotl
+# ![blu_woozy](https://cdn.discordapp.com/emojis/735691073225228308.png)BluAxolotl
 
 I make lots of stuff, but in terms of programming, I make...
 
