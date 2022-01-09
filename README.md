@@ -1,4 +1,4 @@
-# ![blu_logo](https://i.imgur.com/hqqGnUq.png)
+# ![blu_logo](https://i.imgur.com/z9THpMt.png)
 
 I make lots of stuff, but in terms of programming, I make...
 
